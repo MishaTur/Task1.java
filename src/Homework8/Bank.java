@@ -9,7 +9,7 @@ public class Bank {
         System.out.println("Введіть сумму кредиту");
         sc = new Scanner(System.in);
         int kredit = sc.nextInt();
-        System.out.println("Введіть сумму платежу");
+        System.out.println("Введіть сумму платежуTEST");
         sc = new Scanner(System.in);
         int platezh = sc.nextInt();
         System.out.println("Введіть сумму платежу");
